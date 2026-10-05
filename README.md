@@ -1,5 +1,7 @@
 # House Price Predictor
 
+🇫🇷 Version française : [README.fr.md](README.fr.md)
+
 Predict house prices with **linear regression built from scratch** (NumPy only), to learn the maths behind machine learning.
 
 ## Learning goals
